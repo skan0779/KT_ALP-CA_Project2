@@ -1,4 +1,4 @@
-## [Project] 입찰 AI (입찰전략 수립 LLM 서비스)
+## [Project] 입찰 AI (입찰전략 수립 LLM 서비스)
 
 ### Step 1 : pre-training domain knowledge
 ### Step 2 : fine-tunning LLM Model
