@@ -1,3 +1,4 @@
+# AICT Future TF 2차 프로젝트
 ## [Project] 입찰 AI (입찰전략 수립 LLM 서비스)
 
 ### Step 1 : pre-training domain knowledge
